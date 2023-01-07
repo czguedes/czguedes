@@ -28,5 +28,6 @@
 
 ## Experiências Anteriores
 1. Freelancer em Arquitetura e Design de Interiores
-2. 
+
+[![card](https://github-readme-stats.vercel.app/api?username=czguedes&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
