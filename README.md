@@ -7,12 +7,16 @@
 💻 Dev wannabe empoderado pela Growdev
 
 ## Estudando
-- HTML
-- CSS
-- JavaScript
-- Git
+- React + Redux
+- API Rest
+- TypeScript POO
 
 ## Habilidades
+- HTML
+- CSS
+- JavaScript/TypeScript
+- Bootstrap
+- MaterialUI
 
 ### Softwares
 - Revit
@@ -23,7 +27,7 @@
 - Inkscape
 
 ### Idiomas
-- Português Fluente
+- Português [Nativo]
 - Inglês Avançado
 
 ## Experiências Anteriores
