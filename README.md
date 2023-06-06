@@ -5,6 +5,7 @@
 🎓 Arquiteto e urbanista <br>
 🎮 Gamer nas horas vagas <br>
 💻 Dev wannabe empoderado pela Growdev
+LinkedIn: https://www.linkedin.com/in/caio-guedes-042b151bb/
 
 ## Estudando
 - React + Redux
@@ -17,6 +18,7 @@
 - JavaScript/TypeScript
 - Bootstrap
 - MaterialUI
+- Git
 
 ### Softwares
 - Revit
