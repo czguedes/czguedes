@@ -4,7 +4,7 @@
 📚 Desenvolvimento Web Full-stack <br>
 🎓 Arquiteto e urbanista <br>
 🎮 Gamer nas horas vagas <br>
-💻 Dev wannabe empoderado pela Growdev
+💻 Dev wannabe empoderado pela Growdev <br>
 LinkedIn: https://www.linkedin.com/in/caio-guedes-042b151bb/
 
 ## Estudando
