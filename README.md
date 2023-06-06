@@ -35,5 +35,7 @@ LinkedIn: https://www.linkedin.com/in/caio-guedes-042b151bb/
 ## Experiências Anteriores
 1. Freelancer em Arquitetura e Design de Interiores
 
+## Infos 
+
 [![card](https://github-readme-stats.vercel.app/api?username=czguedes&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
