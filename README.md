@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czguedes&label=Profile%20views&color=0e75b6&style=flat" alt="czguedes" /> </p>
 
-- 🔭 Estou atualmente fazendo: [Postiti v3.0](https://github.com/czguedes/postitiV3.0)
+- 🔭 Estou atualmente fazendo: [WAR ESTRUTURADO](https://github.com/EstruturaDados/war-czguedes)
 
-- 🌱 Estou aprendendo: **React-redux, NextJs, PostgreSQL, ExpressJS**
+- 🌱 Estou aprendendo: **C, Estrutura de Dados, Python, HTML, CSS, Javascript**
 
-- 💬 Pergunte-me sobre: **cidades inteligentes, react, sonic the hedgehog**
+- 💬 Pergunte-me sobre: **Sonic the Hedgehog, Arquitetura**
 
 - 📫 Me envia uma DM: **czguedes.dev@gmail.com**
 
-- 📄 Meu CV (resumé): [https://drive.google.com/file/d/1W_38j4ZJoGvAKaX13wmSyK2dARVFI29y/view?usp=drive_link](https://drive.google.com/file/d/1W_38j4ZJoGvAKaX13wmSyK2dARVFI29y/view?usp=drive_link)
+- 📄 Meu CV (resumé): [https://drive.google.com/file/d/12YcfhPSqfDpd-jmiY3EcyFPi7aky3AIS/view?usp=sharing](https://drive.google.com/file/d/12YcfhPSqfDpd-jmiY3EcyFPi7aky3AIS/view?usp=sharing)
 
 
 💻 Tech Stack: </br> </br>
