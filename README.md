@@ -1,5 +1,5 @@
 <h1 align="center">Olá mundo! 👋 Me chamo Caio Guedes</h1>
-<h3 align="center">Analista e desenvolvedor de sistemas em formação, Arquiteto e Urbanista de formação,  Gamer nas horas vagas.</h3>
+<h3 align="center">Analista e desenvolvedor de sistemas em formação, Arquiteto e Urbanista de alma,  Gamer nas horas vagas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czguedes&label=Profile%20views&color=0e75b6&style=flat" alt="czguedes" /> </p>
 
